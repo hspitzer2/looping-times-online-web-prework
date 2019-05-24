@@ -1,7 +1,5 @@
-def using_times(looping_string = "Wingardium Leviosa")
-  loop do
-  print 
-  end
+7.times do
+  puts 
 end
 
 
